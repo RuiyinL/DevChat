@@ -13,4 +13,4 @@ The advent of Large Language Models (LLMs) has introduced a new paradigm in soft
 -->
 * **DevChat.zip** contains the cleaned data, with all invalid entries removed, as saved in JSON files.
 * **Extracted Data.zip** contains the extracted results of the data analysis, provided in MS Excel files.
-* **Scripts.zip** contains all scripts for searching and processing data, including the related Python files.
+* **Scripts.zip** contains all scripts used in this study for searching, crawling, and processing data.
